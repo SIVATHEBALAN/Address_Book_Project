@@ -44,7 +44,7 @@ sudo apt install build-essential
 ### ⚙️ Compile
 
 ```bash
-gcc main.c contact.c file.c populate.c -o addressbook
+gcc main.c contact.c file.c -o addressbook
 ```
 
 ### ▶️ Run
